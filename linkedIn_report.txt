@@ -1,0 +1,36 @@
+Report for /home/kali/wireshark/linkedIn.pcapng
+Generated on Sun Nov 10 08:53:02 AM EST 2024
+---------------------------------------
+
+Total number of packets:
+193
+
+Top 5 Protocols:
+    107 TCP
+     45 TLSv1.3
+     13 SSL
+     12 TLSv1.2
+      8 QUIC
+
+Top 5 Source IP Addresses:
+     94 192.168.142.128
+     70 142.250.195.46
+     16 142.250.183.234
+      8 13.107.42.14
+      2 192.168.142.2
+
+Top 5 Destination IP Addresses:
+     99 192.168.142.128
+     65 142.250.195.46
+     16 142.250.183.234
+      8 13.107.42.14
+      2 192.168.142.2
+
+Average Packet Size:
+418.845
+
+Total TCP Protocols:
+107
+
+Total number of bytes transferred:
+80837
